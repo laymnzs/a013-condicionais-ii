@@ -1,4 +1,4 @@
-//código a ser reescrito
+//código a ser reescrito:
 let nome = prompt("Digite o seu nome")
 nome === "José" ? console.log("Oi, José") : console.log("Você não é o José")
 

@@ -19,7 +19,7 @@ let num = prompt("Digite um número")
         }
         }
 
-//2. Utilizando um operador lógico para unir duas operações relacionais
+//2. Utilizando um operador lógico para unir duas operações relacionais:
 
 if(num%2 === 0 || num%3 === 0){
     console.log("Este número é divisível por 2 e 3")
