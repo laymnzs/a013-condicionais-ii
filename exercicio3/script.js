@@ -1,13 +1,6 @@
-//código a ser reescrito
+//código a ser reescrito:
+let nome = prompt("Digite o seu nome")
+nome === "José" ? console.log("Oi, José") : console.log("Você não é o José")
 
-if(nome === "José"){
-	console.log("Oi, Zé!");
-} else {
-	console.log("Olá, "+nome);
-}
-
-if(idade >= 18){
-	console.log("pode tirar carteira de motorista!");
-} else {
-	console.log("Ainda não pode tirar carteira de motorista");
-}
+const idade = 18
+idade >=18?	console.log("pode tirar carteira de motorista!") : console.log("Ainda não pode tirar carteira de motorista");
